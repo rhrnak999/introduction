@@ -1,4 +1,4 @@
-# 🚀 JeaJong Jung | Robotics & Software Engineer
+# 🚀 정재종 | Robotics & Software Engineer
 
 > Python & ROS 2를 기반으로 로벌 서비스에 현실을 부여하는 가치 있는 개발자
 
