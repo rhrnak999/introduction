@@ -18,7 +18,7 @@ Email: dbrghl240@gmail.com
 | 2025.06 – 2025.06 | 무인 편의점 어시스턴 | AI 비전·음성 인식 기반 무인 편의점 로봇 어시스턴트 |
 | 2025.05 – 2025.06 | 요양 보조 로봇 | 초고령 사회의 요양보조 인력 부족 문제 해결을 위한 지능형 협동로봇 시스템 개발 |
 | 2025.05 – 2025.05 | 탐라는 로봇 지킴이 | 도로 위의 불법 주정차 차량을 탐지하는 로봇 |
-
+---
 📍 [AI + Robotics] 요양보조 협동로봇
 기술스택: ROS2, Doosan Robot API, Python, Teach-Play, Compliant Control
 
@@ -26,7 +26,8 @@ Email: dbrghl240@gmail.com
 물건 전달, 자세 교정, 몸 세척 보조 등 실질적인 요양 업무를 로봇이 수행할 수 있도록 구현하였으며, GUI와 안전 로직도 개발했습니다.
 
 역할: Teach-Play 기반 로직, 순응 제어, 로봇 임무 분기, GUI 연동
-
+---
+---
 📍 [AI + Robotics] 무인편의점 어시스턴트
 기술스택: ROS2, YOLOv11n, LLM, TTS/STT, Pyzbar, MoveJ, GUI
 
@@ -34,7 +35,8 @@ Email: dbrghl240@gmail.com
 비전 인식과 자연어 명령을 결합해 담배 종류 및 수량을 인식하고, 로봇이 직접 픽업 및 바코드 스캔까지 수행합니다.
 
 성과: 비전, 음성, 로봇 제어, GUI 등 모든 모듈을 통합한 완성도 높은 자동화 로봇 시스템 구축
-
+---
+---
 📍 [디지털 트윈] 기능시험 자율주행 로봇
 기술스택: ROS2, Gazebo, PID, Kalman Filter, OpenCV, RViz, MoveIt
 
@@ -42,3 +44,4 @@ Email: dbrghl240@gmail.com
 곡선 주행, 정지, 주차, 신호등 인식 등 복잡한 환경을 센서 기반 주행 알고리즘으로 완주하였습니다.
 
 역할: Lane Detect Hybrid 알고리즘, PID 속도 제어기, GUI 시각화, ArUco 기반 Pick & Place
+---
