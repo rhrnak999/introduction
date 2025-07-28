@@ -23,7 +23,7 @@ Email : dbrghl240@gmail.com
 ---
 📍 디지털 트윈 기반 TurtleBot3 오토 레이스
 ---
-**🔗소스코드[https://github.com/rhrnak999/Auto_race_Tb3]**   
+**🔗[소스코드](https://github.com/rhrnak999/Auto_race_Tb3)**   
 
 기간 : 2025.06 – 2025.07
 기술스택 : ROS2, Gazebo, PID, Kalman Filter, OpenCV, RViz, MoveIt
@@ -36,7 +36,7 @@ Email : dbrghl240@gmail.com
 ---
 📍 무인 편의점 어시스턴트
 ---
-**🔗소스코드[https://github.com/rhrnak999/Self_service_store_assistant]**   
+**🔗[소스코드](https://github.com/rhrnak999/Self_service_store_assistant)**   
 
 기간 : 2025.06 – 2025.06
 기술스택 : ROS2, Doosan Robot API, YOLOv11n, LLM, TTS/STT, Pyzbar, MoveJ, GUI
@@ -48,7 +48,7 @@ Email : dbrghl240@gmail.com
 ---
 📍 요양 보조 로봇
 ---
-**🔗소스코드[https://github.com/rhrnak999/Patient_assistance]**   
+**🔗[소스코드](https://github.com/rhrnak999/Patient_assistance)**   
 
 기간 : 2025.05 – 2025.06
 기술스택 : ROS2, Doosan Robot API, Python, Teach-Play, Compliance Control
@@ -60,7 +60,7 @@ Email : dbrghl240@gmail.com
 ---
 📍 탐라는 로봇 지킴이
 ---
-**🔗소스코드[https://github.com/rhrnak999/Transportation_robot]**   
+**🔗[소스코드](https://github.com/rhrnak999/Transportation_robot)**   
 기간 : 2025.05 – 2025.05
 기술스택 : ROS2, YOLOv11n, OpenCV, 색상 마스킹, Hough Transform, NAV2
 
